@@ -1,0 +1,53 @@
+# Virtualenv
+.env
+
+# Django stuff:
+*.log
+db.sqlite3
+db.sqlite3-journal
+db.sqlite3.backup
+db.sqlite3.backup.old
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+static/
+assets/css/main.css
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# DB
+backup-dbs/
+media/
+*.sqlite3
+
+# Javascript
+node_modules/
+bundles/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor
+.vscode
